@@ -1,0 +1,23 @@
+.reg{
+    background-color: rgb(17, 146, 146);
+    color:white;
+    text-align: center;
+    padding: 5vh;
+
+}
+input{
+    border-radius: 25px;
+    height: 30px;
+}
+.log{
+    background-color: rgb(14, 154, 154);
+    color:white;
+    text-align: center;
+    padding: 5vh;
+}
+.hom{
+    background-color: rgb(10, 145, 145);
+    color:white;
+    text-align: center;
+    padding: 5vh;
+}
